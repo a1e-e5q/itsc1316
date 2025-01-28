@@ -1,2 +1,2 @@
 # itsc1316
-linu
+my linux exersizes
