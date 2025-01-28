@@ -1,2 +1,2 @@
 # itsc1316
-my linux exersizes
+my linux exercises
